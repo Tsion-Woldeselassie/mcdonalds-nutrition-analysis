@@ -17,13 +17,13 @@ nutrients most strongly predict calorie content.
 ## Visualizations
 
 ### Calorie Distribution
-![Histogram](plots/histogram_calories.png)
+![Histogram](histogram_calories.png)
 
 ### Correlation Heatmap
-![Heatmap](plots/correlation_heatmap.png)
+![Heatmap](correlation_heatmap.png)
 
 ### Calories vs Total Fat
-![Scatter](plots/scatter_total_fat.png)
+![Scatter](scatter_total_fat.png)
 
 ## Methods
 - Correlation heatmap (21×21 matrix)
