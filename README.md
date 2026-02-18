@@ -19,10 +19,10 @@ nutrients most strongly predict calorie content.
 ### Calorie Distribution
 ![Histogram](histogram_calories.png)
 
-### Correlation Heatmap
+
 ![Heatmap](correlation_heatmap.png)
 
-### Calories vs Total Fat
+
 ![Scatter](scatter_total_fat.png)
 
 ## Methods
