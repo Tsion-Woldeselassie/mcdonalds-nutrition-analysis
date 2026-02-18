@@ -1,6 +1,6 @@
 # 🍔 McDonald's Nutrition Facts — Exploratory Data Analysis
 
-**Course:** ASDS 6303 | **Tools:** R, ggplot2, corrplot
+**Tools:** R, ggplot2, corrplot
 
 ## Project Overview
 This project performs a full exploratory data analysis (EDA) on McDonald's 
